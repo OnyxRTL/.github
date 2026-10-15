@@ -1,14 +1,3 @@
-<pre align="center">
- ██████╗ ███████╗██╗  ██╗
-██╔═══██╗██╔════╝██║  ██║
-██║   ██║███████╗███████║
-██║   ██║╚════██║██╔══██║
-╚██████╔╝███████║██║  ██║
- ╚═════╝ ╚══════╝╚═╝  ╚═╝
- 
-opensiliconhub
-</pre>
-
 ## Our Projects
 
 [***CipherCore***](https://github.com/opensiliconhub/ciphercore) – **Hardware implementations of cryptographic cores.**
