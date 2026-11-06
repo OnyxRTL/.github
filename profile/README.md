@@ -1,14 +1,18 @@
 ## Our Projects
 
-[***CipherCore***](https://github.com/opensiliconhub/ciphercore) – **Hardware implementations of cryptographic cores.**
+[***CipherCore***](https://github.com/OnyxRTL/ciphercore) – **Hardware implementations of cryptographic cores.**
 
 - A curated collection of cryptographic keystream generators written in Verilog, serving as research artifacts and for industrial purposes, while providing reproducible flows to recreate everything mentioned in the reports using open-source tools.
 
-[***open-eda-appimage***](https://github.com/opensiliconhub/open-eda-appimage) – **Unofficial packaging of EDA tools that don't provide pre-built binaries.**
+[***colibri-verilog***](https://github.com/OnyxRTL/colibri-verilog) – **Community port of CERN's Colibri HDL library to Verilog/SystemVerilog.**
+
+- An early-stage, independent port of the VHDL Colibri library, so it can be used natively in open-source EDA flows such as Yosys and Verilator. So far it covers part of the memory sub-library (ROM, RAM and dual-port RAMs). Not affiliated with CERN.
+
+[***appimage-eda***](https://github.com/OnyxRTL/appimage-eda) – **Unofficial packaging of EDA tools that don't provide pre-built binaries.**
 
 - An initiative to reduce the installation barrier for open-source EDA tools, specifically for easy grab-and-use or CI/CD pipelines.
 
-[***SUBLEQ-CPU***](https://github.com/opensiliconhub/SUBLEQ-CPU) – **A SUBLEQ CPU implemented in both Verilog and VHDL.**
+[***SUBLEQ-CPU***](https://github.com/OnyxRTL/SUBLEQ-CPU) – **A SUBLEQ CPU implemented in both Verilog and VHDL.** (Archived)
 
 - This educational artifact demonstrates a SUBLEQ (Subtract and Branch if Less than or Equal to zero) CPU architecture. Both the Verilog and VHDL implementations have been validated against each other using formal equivalence checking, serving as a learning resource for digital design and formal verification techniques, and as a baseline for verification, assembler, program verifiers, and much more.
 
